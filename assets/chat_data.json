@@ -1,0 +1,190 @@
+[
+    {
+        "input": "hello",
+        "response": "Hi there! How can I assist you?"
+    },
+    {
+        "input": "hi",
+        "response": "Hello! How can I help you?"
+    },
+    {
+        "input": "how are you",
+        "response": "I'm just a bot, but I'm doing great! How about you?"
+    },
+    {
+        "input": "what is your name",
+        "response": "I'm your friendly chatbot!"
+    },
+    {
+        "input": "bye",
+        "response": "Goodbye! Have a great day!"
+    },
+    {
+        "input": "thank you",
+        "response": "You're welcome!"
+    },
+    {
+        "input": "what can you do",
+        "response": "I can help you with basic queries. Ask me anything!"
+    },
+    {
+        "input": "who made you",
+        "response": "I was created by a developer to assist you!"
+    },
+    {
+        "input": "what is the time",
+        "response": "I'm not connected to a clock, but I hope it's a good time for you!"
+    },
+    {
+        "input": "tell me a joke",
+        "response": "Why don’t skeletons fight each other? They don’t have the guts."
+    },
+    {
+        "input": "how old are you",
+        "response": "I was born the moment you started this app!"
+    },
+    {
+        "input": "do you like humans",
+        "response": "Of course! I was made to interact with humans."
+    },
+    {
+        "input": "what is AI",
+        "response": "AI stands for Artificial Intelligence. It's the technology behind me!"
+    },
+    {
+        "input": "how does this work",
+        "response": "I match your queries to predefined responses from a dataset."
+    },
+    {
+        "input": "do you have a family",
+        "response": "I don’t have a family, but you can think of me as a friend!"
+    },
+    {
+        "input": "can you help me",
+        "response": "Sure! Just tell me what you need help with."
+    },
+    {
+        "input": "what is the weather",
+        "response": "I don’t have weather data right now, but it looks nice outside!"
+    },
+    {
+        "input": "tell me something interesting",
+        "response": "Did you know? Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old!"
+    },
+    {
+        "input": "what is your favorite color",
+        "response": "I like all colors equally!"
+    },
+    {
+        "input": "do you eat",
+        "response": "I don't need to eat, but I enjoy feeding your curiosity!"
+    },
+    {
+        "input": "where are you from",
+        "response": "I'm from the digital world!"
+    },
+    {
+        "input": "can you speak another language",
+        "response": "Currently, I only support English."
+    },
+    {
+        "input": "what is the meaning of life",
+        "response": "The meaning of life is what you make of it!"
+    },
+    {
+        "input": "how do I cook pasta",
+        "response": "Boil water, add pasta, and cook for 8-10 minutes. Enjoy!"
+    },
+    {
+        "input": "what is 2+2",
+        "response": "2+2 equals 4!"
+    },
+    {
+        "input": "are you alive",
+        "response": "Nope, I’m just a piece of code."
+    },
+    {
+        "input": "can you sing",
+        "response": "I can’t sing, but I can hum in binary!"
+    },
+    {
+        "input": "what is love",
+        "response": "Love is a wonderful feeling of care and affection."
+    },
+    {
+        "input": "do you sleep",
+        "response": "No, I’m always awake for you."
+    },
+    {
+        "input": "are you smart",
+        "response": "I try to be as smart as my dataset allows me to be!"
+    },
+    {
+        "input": "tell me about space",
+        "response": "Space is a vast expanse that exists beyond Earth, filled with stars, planets, and mysteries."
+    },
+    {
+        "input": "what is a chatbot",
+        "response": "A chatbot is a program that simulates conversations with users, like me!"
+    },
+    {
+        "input": "can you drive",
+        "response": "I can’t drive, but I can help you find directions!"
+    },
+    {
+        "input": "do you have a job",
+        "response": "Yes, my job is to assist you!"
+    },
+    {
+        "input": "what is your purpose",
+        "response": "My purpose is to provide answers and assist you with your queries."
+    },
+    {
+        "input": "are you human",
+        "response": "Nope, I’m a bot designed to interact with humans."
+    },
+    {
+        "input": "do you have feelings",
+        "response": "I don’t have feelings, but I care about helping you."
+    },
+    {
+        "input": "what is python",
+        "response": "Python is a popular programming language used for many applications."
+    },
+    {
+        "input": "can you code",
+        "response": "I’m made of code, but I can’t write it myself."
+    },
+    {
+        "input": "what is flutter",
+        "response": "Flutter is a framework for building beautiful, natively compiled applications for mobile, web, and desktop."
+    },
+    {
+        "input": "what is dart",
+        "response": "Dart is the programming language used with Flutter to build apps."
+    },
+    {
+        "input": "can you learn",
+        "response": "I don’t learn on my own, but I can be updated by my developer."
+    },
+    {
+        "input": "what is your favorite food",
+        "response": "I don’t eat, but I hear pizza is popular!"
+    },
+    {
+        "input": "what is the internet",
+        "response": "The internet is a global network that connects computers and people worldwide."
+    },
+    {
+        "input": "how do I make tea",
+        "response": "Boil water, add tea leaves or a tea bag, let it brew, and enjoy!"
+    },
+    {
+        "input": "what is friendship",
+        "response": "Friendship is a bond of mutual affection and support."
+    },
+    {
+        "input": "how do I tie a tie",
+        "response": "Search for a ‘four-in-hand knot’ tutorial. It’s easy to learn!"
+    }
+]
